@@ -21,7 +21,7 @@ Note:
 
 1.) Download the latest release (ZIP-file) [here](https://github.com/JelteMX/ux-grunt-theming/releases). **Do NOT download the source files, but choose Gulp.zip or Grunt.zip**
 
-2.) Unzip in your project root folder
+2.) Unzip the zip file in your project root folder so that package.json and package.xml end up in your root folder.
 
 3.) Open a terminal and go to your project root folder.
 
